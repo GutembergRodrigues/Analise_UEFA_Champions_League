@@ -1,0 +1,355 @@
+ID;Time;Partidas;Vitorias;Empates;Derrotas;Titulos;Países 
+1;Real Madrid;486;291;85;110;15;Espanha
+2;Bayern Munich;388;231;78;79;6;Alemanha
+3;FC Barcelona;341;196;77;68;5;Espanha
+4;Manchester United;289;153;69;67;3;Inglaterra
+5;Juventus;297;151;68;78;2;Italia
+6;AC Milan;265;127;69;69;7;Italia
+7;Liverpool FC;230;128;48;54;6;Inglaterra
+8;FC Porto;265;120;58;87;2;Portugal
+9;SL Benfica;266;116;61;89;2;Portugal
+10;Chelsea FC;197;101;52;44;2;Inglaterra
+11;AFC Ajax;215;100;50;65;4;Holanda
+12;Inter Milan;203;97;53;53;3;Italia
+13;Arsenal FC;197;93;44;60;0;Inglaterra
+14;Borussia Dortmund;176;83;36;57;1;Alemanha
+15;Atletico de Madrid;166;79;44;43;0;Espanha
+16;Paris Saint-Germain;151;79;29;43;0;França
+17;Manchester City;127;72;26;29;1;Inglaterra
+18;Dinamo Kiev;186;65;41;80;0;Ucrania
+19;PSV Eindhoven;171;58;43;70;1;Holanda
+20;Celtic FC;156;61;28;67;1;Escocia
+21;Olympique Lyon;136;58;36;42;0;França
+22;RSC Anderlecht;163;53;35;75;0;Belgica
+23;Valencia CF;116;48;34;34;0;Espanha
+24;Galatasaray;161;43;41;77;0;Turquia
+25;Olympiakos Piraeus;156;47;28;81;0;Grecia
+26;Rangers FC;131;43;31;57;0;Escocia
+27;Crvena Zvezda;104;48;15;41;1;Servia
+28;AS Roma;109;41;26;42;0;Italia
+29;Olympique Marseille;110;43;18;49;1;França
+30;Panathinaikos;127;36;37;54;0;Grecia
+31;Shakhtar Donetsk;118;39;26;53;0;Ucrania
+32;Bayer Leverkusen;107;37;25;45;0;Alemanha
+33;AS Monaco;98;35;21;42;0;França
+34;Spartak Moskva;104;34;23;47;0;Russia
+35;AC Sparta Praha;102;33;24;45;0;República Tcheca
+36;Feyenoord;85;32;22;31;1;Holanda
+37;CSKA Sofia;86;34;15;37;0;Bulgaria
+38;Club Brugge KV;97;31;22;44;0;Belgica
+39;SSC Napoli;66;30;17;19;0;Italia
+40;FC Schalke 04;73;29;17;27;0;Alemanha
+41;FC Basel;82;29;15;38;0;Suiça
+42;Sevilla FC;72;27;20;25;0;Espanha
+43;IFK Göteborg;70;30;10;30;0;Suecia
+44;Sporting CP;92;28;15;49;0;Portugal
+45;FCSB;87;25;22;40;1;Romenia
+46;Tottenham Hotspur;61;27;13;21;0;Inglaterra
+47;CSKA Moskva;86;23;20;43;0;Russia
+48;Lazio;60;23;16;21;0;Italia
+49;Deportivo de La Coruña;58;23;15;20;0;Espanha
+50;Rosenborg BK;90;21;21;48;0;Noruega
+51;Werder Bremen;60;23;14;23;0;Alemanha
+52;Girondins Bordeaux;50;21;16;13;0;França
+53;Austria Wien;63;22;13;28;0;Austria
+54;Standard de Liège;46;24;5;17;0;Belgica
+55;Rapid Wien;61;24;5;32;0;Austria
+56;Zenit St. Petersburg;64;21;14;29;0;Russia
+57;FK Viagem Pribram;45;22;10;13;0;República Tcheca
+58;Borussia Mönchengladbach;51;19;16;16;0;Alemanha
+59;FC Dinamo Bucuresti;54;21;9;24;0;Romenia
+60;RB Leipzig;46;22;6;18;0;Alemanha
+61;Fenerbahçe;73;20;10;43;0;Turquia
+62;Leeds United;38;20;6;12;0;Inglaterra
+63;ACF Fiorentina;39;18;12;9;0;Italia
+64;Górnik Zabrze;43;20;6;17;0;Polonia
+65;Besiktas;70;17;13;40;0;Turquia
+66;Saint-Étienne;39;19;6;14;0;França
+67;Hamburger SV;39;18;6;15;1;Alemanha
+68;Újpest FC;40;17;8;15;0;Hungria
+69;Malmö;53;14;11;28;0;Suecia
+70;FC Nantes;40;12;14;14;0;França
+71;BFC Dynamo;36;14;7;15;0;Alemanha
+72;Villarreal CF;40;11;15;14;0;Espanha
+73;Hajduk Split;26;14;5;7;0;Croacia
+74;Legia Warszawa;32;14;5;13;0;Polonia
+75;Spartak Trnava;24;13;7;4;0;Eslovaquia
+76;Partizan;45;13;7;25;0;Servia
+77;AEK Athen;56;9;19;28;0;Grecia
+78;Stade Reims;24;14;3;7;0;França
+79;FC København;44;11;12;21;0;Dinamarca
+80;Budapesti Vasas;27;12;6;9;0;Hungria
+81;Dynamo Dresden;30;12;6;12;0;Alemanha
+82;Lille OSC;46;9;15;22;0;França
+83;Nottingham Forest;20;12;4;4;2;Inglaterra
+84;BSC Young Boys;35;10;9;16;0;Suiça
+85;FC Zürich;33;12;3;18;0;Suiça
+86;RB Salzburg;38;9;11;18;0;Austria
+87;Real Sociedad;32;9;9;14;0;Espanha
+88;Ferencvárosi TC;32;10;6;16;0;Hungria
+89;Grasshopper Club Zürich;38;9;8;21;0;Suiça
+90;Lokomotiv Moskva;44;9;8;27;0;Russia
+91;Omonia Nikosia;36;11;2;23;0;Chipre
+92;VfL Wolfsburg;22;10;3;9;0;Alemanha
+93;Budapest Honvéd;26;10;3;13;0;Hungria
+94;Dinamo Zagreb;54;8;9;37;0;Croacia
+95;Athletic Bilbao;24;8;7;9;0;Espanha
+96;VfB Stuttgart;27;8;7;12;0;Alemanha
+97;Aston Villa;15;9;3;3;1;Inglaterra
+98;Atalanta;23;8;6;9;0;Italia
+99;FC Köln;17;7;8;2;0;Alemanha
+100;Newcastle United;24;8;4;12;0;Espanha
+101;Trabzonspor;20;7;5;8;0;Turquia
+102;Linfield FC;40;5;11;23;0;Irlanda do Norte
+103;APOEL Nikosia;40;5;11;24;0;Chipre
+104;Eintracht Frankfurt;15;7;3;5;0;Alemanha
+105;RC Lens;18;6;6;6;0;França
+106;FC Wacker Innsbruck;22;7;3;12;0;Austria
+107;OGC Nice;14;7;2;5;0;França
+108;Slovan Bratislava;16;7;2;7;0;Eslovaquia
+109;Sturm Graz;24;7;2;15;0;Austria
+110;Gyori ETO FC;14;7;1;6;0;Hungria
+111;Servette FC;17;6;4;7;0;Suiça
+112;Aarhus GF;18;6;4;8;0;Dinamarca
+113;1. FC Frankfurt (Oder);21;7;1;12;0;Alemanha
+114;Lech Poznan;16;7;1;8;0;Polonia
+115;AJ Auxerre;20;7;1;12;0;França
+116;Jeunesse Esch;39;6;3;30;0;Luxemburgo
+117;Sampdoria;11;6;2;3;0;Italia
+118;Derby County;12;6;2;4;0;Inglaterra
+119;FC Kaiserslautern;12;6;2;4;0;Alemanha
+120;Brondby IF;20;5;5;10;0;Dinamarca
+121;HJK Helsinki;28;6;2;20;0;Finlandia
+122;Erzgebirge Aue;16;5;4;7;0;Alemanha
+123;Aberdeen FC;12;5;4;3;0;Escocia
+124;Ruch Chorzów;14;5;4;5;0;Polonia
+125;BATE Borisov;30;4;7;19;0;Bielorrussia
+126;Dnipro Dnipropetrovsk;12;5;3;4;0;Ucrania
+127;FC Baník Ostrava;14;5;3;6;0;República Tcheca
+128;CFR Cluj;18;5;3;10;0;Romenia
+129;Boavista;18;4;6;8;0;Portugal
+130;Leicester City;10;5;2;3;0;Inglaterra
+131;Widzew Lodz;16;5;2;9;0;Polonia
+132;Levski Sofia;28;4;5;19;0;Bulgaria
+133;Dundee United;8;5;1;2;0;Escocia
+134;Málaga;10;4;4;2;0;Espanha
+135;MTK Budapest;10;5;1;4;0;Hungria
+136;Wiener Sport-Club;12;4;4;4;0;Austria
+137;FC Nürnberg;8;5;1;2;0;Alemanha
+138;Vojvodina;9;5;1;3;0;Servia
+139;FC Kuusysi (old);14;5;1;8;0;Finlandia
+140;Sporting Braga;18;5;1;12;0;Portugal
+141;FC Ararat;6;5;0;1;0;Armenia
+142;Dundee FC;8;5;0;3;0;Escocia
+143;FC Carl Zeiss Jena;8;5;0;3;0;Alemanha
+144;Glentoran FC;20;3;6;11;0;Irlanda do Norte
+145;FC Viktoria PlzeÅ;24;4;3;17;0;República Tcheca
+146;FC Universitatea Craiova;12;4;2;6;0;Romenia
+147;Lillestrom Sportsklubb;12;3;5;4;0;Noruega
+148;AFC DWS;6;4;1;1;0;Holanda
+149;Vejle BK;12;3;4;5;0;Dinamarca
+150;Sliema Wanderers;14;4;1;9;0;Malta
+151;Arges Pitesti;8;4;0;4;0;Romenia
+152;Dinamo Minsk;8;3;3;2;0;Bielorrussia
+153;Neuchâtel Xamax FCS;8;4;0;4;0;Suiça
+154;Åtvidabergs Fotbollförening;8;4;0;4;0;Suecia
+155;Rubin Kazan;12;2;6;4;0;Russia
+156;KF Tirana;16;3;3;10;0;Albania
+157;Esbjerg fB;12;3;3;6;0;Dinamarca
+158;Everton FC;8;2;5;1;0;Inglaterra
+159;AZ Alkmaar;10;2;5;3;0;Holanda
+160;IFK Norrköping;12;2;5;5;0;Suecia
+161;FK Partizani;14;3;2;9;0;Albania
+162;Hibernian FC;6;3;1;2;0;Escocia
+163;RC Strasbourg;6;3;1;2;0;França
+164;IFK Malmö;6;3;1;2;0;Suecia
+165;KAA Gent;8;3;1;4;0;Belgica
+166;Lokomotiv Sofia;8;3;1;4;0;Bulgaria
+167;Hertha BSC;12;2;4;6;0;Alemanha
+168;Aalborg BK;12;2;4;6;0;Dinamarca
+169;Maccabi Haifa;18;3;1;14;0;Israel
+170;NK Maribor;18;1;7;10;0;Eslovenia
+171;Ipswich Town;4;3;0;1;0;Inglaterra
+172;TSV 1860 München;4;3;0;1;0;Alemanha
+173;KV Mechelen;6;2;3;1;0;Belgica
+174;Bohemians Praha 1905;4;3;0;1;0;República Tcheca
+175;1. FC Magdeburg;8;3;0;5;0;Alemanha
+176;Sparta Rotterdam;6;3;0;3;0;Holanda
+177;Parma Calcio 1913;6;2;3;1;0;Italia
+178;RC Celta;8;2;3;3;0;Espanha
+179;Polonia Bytom;6;3;0;3;0;Polonia
+180;RCD Mallorca;6;3;0;3;0;Espanha
+181;Waterford FC;12;3;0;9;0;Irlanda
+182;ÍA Akranes;16;2;3;11;0;Islandia
+183;Dundalk FC;16;2;3;11;0;Irlanda
+184;Valur Reykjavík;16;2;3;11;0;Islandia
+185;KSK Beveren;6;2;2;2;0;Belgica
+186;FC Unirea;6;2;2;2;0;Romenia
+187;Wisla Kraków;6;2;2;2;0;Polonia
+188;Wolverhampton Wanderers;8;2;2;4;0;Inglaterra
+189;KB København;11;2;2;7;0;Dinamarca
+190;FC Reipas Lahti (old);8;2;2;4;0;Finlandia
+191;KRC Genk;18;0;8;10;0;Belgica
+192;Inter Bratislava;4;2;1;1;0;Eslovaquia
+193;Lyngby BK;6;2;1;3;0;Dinamarca
+194;Zorya Lugansk;4;2;1;1;0;Ucrania
+195;FC Sion;4;2;1;1;0;Suiça
+196;Hellas Verona;4;2;1;1;0;Italia
+197;FC Vítkovice;4;2;1;1;0;República Tcheca
+198;Udinese Calcio;6;2;1;3;0;Italia
+199;Boldklubben 1903;8;2;1;5;0;Dinamarca
+200;FC Sheriff;6;2;1;3;0;Moldavia
+201;Real Betis;6;2;1;3;0;Espanha
+202;Hvidovre IF;8;1;4;3;0;Dinamarca
+203;FC Petrolul Ploiesti;8;2;1;5;0;Romenia
+204;Djurgårdens IF;8;2;1;5;0;Suecia
+205;Slavia Praha;12;1;4;7;0;República Tcheca
+206;PFC Ludogorets Razgrad;12;1;4;7;0;Bulgaria
+207;Zbrojovka Brno;4;1;3;0;0;República Tcheca
+208;B 1913 Odense;4;2;0;2;0;Dinamarca
+209;Burnley FC;4;2;0;2;0;Inglaterra
+210;Cagliari Calcio;4;2;0;2;0;Italia
+211;Eintracht Braunschweig;5;2;0;3;0;Alemanha
+212;FC Twente;6;1;3;2;0;Holanda
+213;RWDM Brussels FC;4;2;0;2;0;Belgica
+214;FC Petržalka;6;1;3;2;0;Eslovaquia
+215;Anorthosis Famagusta;8;1;3;4;0;Chipre
+216;Lyn Oslo;10;2;0;8;0;Noruega
+217;Torino FC;4;1;2;1;0;Italia
+218;FK Sarajevo;6;1;2;3;0;Bosnia
+219;Hapoel Tel Aviv;6;1;2;3;0;Israel
+220;Gwardia Warszawa;5;1;2;2;0;Polonia
+221;Kilmarnock FC;4;1;2;1;0;Escocia
+222;FC Hradec Králové;4;1;2;1;0;República Tcheca
+223;FC La Chaux-de-Fonds;4;1;2;1;0;Suiça
+224;FK Krasnodar;6;1;2;3;0;Russia
+225;FK Rostov;6;1;2;3;0;Russia
+226;Helsingborgs IF;6;1;2;3;0;Suecia
+227;Bohemian FC;6;1;2;3;0;Irlanda
+228;Viking FK;14;1;2;11;0;Noruega
+229;Hibernians FC;12;1;2;9;0;Malta
+230;Rapid Bucuresti;4;1;1;2;0;Romenia
+231;Spartak Plovdiv;4;1;1;2;0;Bulgaria
+232;Bologna FC;3;1;1;1;0;Italia
+233;AB Gladsaxe;4;1;1;2;0;Dinamarca
+234;Halmstads BK;4;1;1;2;0;Suecia
+235;Blackburn Rovers;6;1;1;4;0;Inglaterra
+236;FC Thun Berner Oberland;6;1;1;4;0;Suiça
+237;FK Astana;6;0;4;2;0;Cazaquistao
+238;sc Heerenveen;6;1;1;4;0;Holanda
+239;PAOK Saloniki;6;1;1;4;0;Grecia
+240;Östers IF;8;1;1;6;0;Suecia
+241;AIK Solna;8;1;1;6;0;Suecia
+242;Fredrikstad FK;8;1;1;6;0;Noruega
+243;Shamrock Rovers;14;0;4;10;0;Irlanda
+244;Maccabi Tel Aviv;14;1;1;12;0;Israel
+245;AE Larissa FC;2;1;0;1;0;Grecia
+246;Dinamo Tbilisi;4;1;0;3;0;Georgia
+247;FK Vllaznia;2;1;0;1;0;Albania
+248;Torpedo Moskva;4;0;3;1;0;Russia
+249;FC Saarbrücken;2;1;0;1;0;Alemanha
+250;Zaglebie Lubin;2;1;0;1;0;Polonia
+251;Hansa Rostock;2;1;0;1;0;Alemanha
+252;KA Akureyri;2;1;0;1;0;Islandia
+253;1899 Hoffenheim;6;0;3;3;0;Alemanha
+254;Botev Plovdiv;4;1;0;3;0;Bulgaria
+255;Apollon Limassol;4;1;0;3;0;Chipre
+256;Szombierki Bytom;4;1;0;3;0;Polonia
+257;FC Differdange 03;2;1;0;1;0;Polonia
+258;LKS Lodz;2;1;0;1;0;Polonia
+259;Heart of Midlothian;4;1;0;3;0;Luxemburgo
+260;Molde FK;6;1;0;5;0;Escocia
+261;Istanbul Basaksehir;6;1;0;5;0;Turquia
+262;Derry City;6;1;0;5;0;Noruega
+263;Royal Antwerp FC;8;1;0;7;0;Irlanda
+264;TPS Turku;8;1;0;7;0;Belgica
+265;Haka Valkeakoski;8;1;0;7;0;Finlandia
+266;Drumcondra Dublin;6;1;0;5;0;Finlandia
+267;Hamrun Spartans;8;1;0;7;0;Irlanda
+268;Spora Luxemburg;7;1;0;6;0;Malta
+269;Valletta FC;10;1;0;9;0;Luxemburgo
+270;Floriana FC;14;0;3;11;0;Malta
+271;Flamurtari Vlorë;2;0;2;0;0;Malta
+272;1. FC Union Berlin;6;0;2;4;0;Albania
+273;Montpellier HSC;6;0;2;4;0;Alemanha
+274;Athlone Town;4;0;2;2;0;França
+275;Willem II;6;0;2;4;0;Irlanda
+276;Vålerenga I.F;6;0;2;4;0;Holanda
+277;FC Midtjylland;6;0;2;4;0;Noruega
+278;Qarabag FK;6;0;2;4;0;Dinamarca
+279;UTA Arad;6;0;2;4;0;Azerbaijao
+280;Fram Reykjavík;8;0;2;6;0;Romenia
+281;Csepel SC;2;0;1;1;0;Islandia
+282;IBV Vestmannaeyjar;2;0;1;1;0;Hungria
+283;Skeid Fotball;2;0;1;1;0;Islandia
+284;FC Aarau;2;0;1;1;0;Noruega
+285;FC Admira Wacker;2;0;1;1;0;Suiça
+286;Etar Veliko Tarnovo;2;0;1;1;0;Austria
+287;PFC Beroe;2;0;1;1;0;Bulgaria
+288;Slask Wroclaw;2;0;1;1;0;Polonia
+289;Glenavon FC;2;0;1;1;0;Bulgaria
+290;Rot-Weiss Essen;2;0;1;1;0;Irlanda do Norte
+291;St Patrick's Athletic;2;0;1;1;0;Alemanha
+292;FC Lausanne-Sport;2;0;1;1;0;Irlanda
+293;Lisburn Distillery;2;0;1;1;0;Suiça
+294;FC Blau-Weiß Linz;2;0;1;1;0;Irlanda do Norte
+295;Stade Rennais;6;0;1;5;0;Austria
+296;FC Dinamo City;6;0;1;5;0;França
+297;Skonto FC;4;0;1;3;0;Albania
+298;Lierse SK;8;0;1;7;0;Letonia
+299;Bursaspor;6;0;1;5;0;Belgica
+300;B 1909 Odense;6;0;1;5;0;Turquia
+301;Odense BK;6;0;1;5;0;Dinamarca
+302;Progrès Niedercorn;4;0;1;3;0;Dinamarca
+303;Kuopion PS;6;0;1;5;0;Luxemburgo
+304;OPS Oulu;4;0;1;3;0;Finlandia
+305;FC Nordsjaelland;6;0;1;5;0;Finlandia
+306;Aris Bonnevoie;6;0;1;5;0;Luxemburgo
+307;Olympiakos Nikosia;6;0;1;5;0;Chipre
+308;FC Utrecht;2;0;0;2;0;Holanda
+309;Cork City;2;0;0;2;0;Irlanda
+310;Roda JC Kerkrade;2;0;0;2;0;Holanda
+311;Chemnitzer FC;2;0;0;2;0;Alemanha
+312;LASK;2;0;0;2;0;Austria
+313;Zeljeznicar Sarajevo;2;0;0;2;0;Bosnia
+314;Örgryte IS;2;0;0;2;0;Suecia
+315;FKS Stal Mielec;4;0;0;4;0;Polonia
+316;SG Sachsen Leipzig;2;0;0;2;0;Alemanha
+317;Moss FK;2;0;0;2;0;Noruega
+318;Beitar Jerusalem;2;0;0;2;0;Israel
+319;Pezoporikos Larnaca;2;0;0;2;0;Chipre
+320;Tavriya Simferopol (1958-2014);2;0;0;2;0;Ucrania
+321;Ilves Tampere;2;0;0;2;0;Finlandia
+322;FC Luzern;2;0;0;2;0;Suiça
+323;Cork Celtic;2;0;0;2;0;Irlanda
+324;Cork Hibernians;2;0;0;2;0;Irlanda
+325;Køge Boldklub;2;0;0;2;0;Dinamarca
+326;Shelbourne FC;2;0;0;2;0;Irlanda
+327;Strømsgodset IF;2;0;0;2;0;Noruega
+328;KF Elbasani;2;0;0;2;0;Albania
+329;Sligo Rovers;2;0;0;2;0;Irlanda
+330;Vardar Skopje;2;0;0;2;0;Macedonia do Norte
+331;Helsingfors IFK;4;0;0;4;0;Finlandia
+332;Ards FC;2;0;0;2;0;Irlanda do Norte
+333;HPS Helsinki;2;0;0;2;0;Finlandia
+334;Olimpija Ljubljana;2;0;0;2;0;Eslovenia
+335;Vikingur Reykjavik;6;0;0;6;0;Islandia
+336;Otelul Galati;6;0;0;6;0;Romenia
+337;IK Start;4;0;0;4;0;Noruega
+338;FK Žalgiris;2;0;0;2;0;Lituania
+339;Coleraine FC;2;0;0;2;0;Irlanda do Norte
+340;FC VSS Kosice;6;0;0;6;0;Eslovaquia
+341;Limerick FC (old);4;0;0;4;0;Irlanda
+342;AEL Limassol;2;0;0;2;0;Chipre
+343;Debreceni VSC;6;0;0;6;0;Hungria
+344;KPV Kokkola;2;0;0;2;0;Finlandia
+345;MŠK Žilina;6;0;0;6;0;Eslovaquia
+346;EPA Larnaca;2;0;0;2;0;Chipre
+347;Crusaders FC;4;0;0;4;0;Irlanda do Norte
+348;Portadown FC;4;0;0;4;0;Irlanda do Norte
+349;Rabat Ajax;4;0;0;4;0;Malta
+350;KR Reykjavik;6;0;0;6;0;Islandia
+351;Keflavík ÍF;8;0;0;8;0;Islandia
+352;Stade Dudelange;4;0;0;4;0;Luxemburgo
+353;Union Luxembourg;8;0;0;8;0;Luxemburgo
+354;Avenir Beggen;8;0;0;8;0;Luxemburgo
