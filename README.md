@@ -1,4 +1,4 @@
-# Análise UEFA Champions League
+# Análise UEFA Champions League 1955-2024
 ![1](https://github.com/user-attachments/assets/897d69f1-d66d-4f4d-95d0-f8cf39138368)
 
 ## Conteúdo
