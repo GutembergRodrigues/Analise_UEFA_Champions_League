@@ -55,7 +55,7 @@ As metas e objetivos dessas análises são entender o desempenho histórico dos 
 - Os times que venceram mais de 3 títulos são Real Madrid, AC Milan, Bayern Munich, Barcelona, Liverpool, e Ajax, mostrando que apenas uma elite do futebol europeu dominou a competição várias vezes.
 - Times que venceram pelo menos um título, como Real Madrid e AC Milan, jogaram uma média significativa de partidas, refletindo a experiência necessária para conquistar o troféu.
 - Os 5 times com mais participações na UCL são Real Madrid, Bayern Munich, Barcelona, Manchester United, e Juventus, o que demonstra sua consistência ao longo dos anos.
-- A Espanha produziu o maior número de times vencedores da UCL, liderada por times como Real Madrid e Barcelona, consolidando o país como uma potência no futebol europeu.
+- A Inglaterra produziu o maior número de times vencedores da UCL, liderada por times como Liverpool e Manchester United, consolidando o país como uma potência no futebol europeu.
 - Espanha sediou várias finais da UCL, sendo uma das nações mais populares e com infraestrutura adequada para eventos de grande porte.
 - O maior público registrado foi na final entre Real Madrid e Eintracht Frankfurt em 1960, com um público recorde de 127.621 pessoas.
 - Os 5 times que mais perderam finais são Juventus, Bayern Munich, Benfica, AC Milan, e Liverpool, mostrando que, apesar do sucesso, eles também enfrentaram grandes decepções.
