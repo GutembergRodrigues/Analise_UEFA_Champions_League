@@ -161,7 +161,7 @@ ORDER BY total_pontos DESC
 LIMIT 10;
 
 
--- 16. Liste todos os times que ja golearam em uma final  
+-- 17. Liste todos os times que ja golearam em uma final  
 WITH Goleadas AS (
     SELECT 
         Vencedores,
@@ -180,7 +180,7 @@ ORDER BY diferenca_gols DESC;
 
 
 
--- 17. Liste os anos em que times do mesmo país venceram e perderam a final (ambos os finalistas do mesmo país).
+-- 18. Liste os anos em que times do mesmo país venceram e perderam a final (ambos os finalistas do mesmo país).
 WITH SameCountryFinals AS (
     SELECT 
         Temporada,
@@ -193,19 +193,6 @@ WITH SameCountryFinals AS (
 )
 SELECT Temporada, Vencedores, Perdedor, País_Vencedor
 FROM SameCountryFinals;
-
-
-
--- 18. Classifique todos os times pelo percentual de vitórias em todas as partidas disputadas.
-SELECT 
-    Time,
-    Vitorias,
-    Partidas,
-    (Vitorias / Partidas) * 100 AS percentual_vitorias,
-    RANK() OVER (ORDER BY (Vitorias / Partidas) DESC) AS rank_vitorias
-FROM ucl_alltime_performance_table
-WHERE Partidas > 0;
-
 
 
 -- 19. Para cada final da UCL, calcule o total acumulado de títulos ganhos pelo vencedor até aquela temporada (contagem cumulativa de títulos).
